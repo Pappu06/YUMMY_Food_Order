@@ -20,7 +20,7 @@
 
 **YUMMY** is a modern food ordering web application that allows users to browse delicious meals, add items to their cart, place orders, and enjoy a seamless ordering experience.
 
-The application is designed using the **MERN Stack** with a clean, responsive UI and scalable backend architecture.
+The application is designed using the **MERN Stack** and **RazorPay** integration with a smooth payment, clean responsive UI and scalable backend architecture.
 
 ---
 
